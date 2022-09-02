@@ -19,6 +19,7 @@ public class Main {
        else{
          counts[highCount]+=1;
        }
+     }
     return counts;
   }
 
